@@ -122,7 +122,7 @@ li.deleted-item{
 }
 
 .toggleMe{
-animation: :hideMe 5s forwards;	
+animation: hideMe 5s forwards;	
 }
 @keyframes hideMe{
 	0%{
